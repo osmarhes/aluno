@@ -1,4 +1,4 @@
-package br.com.pamcary.aluno.controller;
+package br.com.osmarhes.aluno.controller;
 
 import java.util.HashMap;
 import java.util.List;
@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.pamcary.aluno.service.AlunoService;
-import br.com.pamcary.aluno.view.AlunoDTO;
+import br.com.osmarhes.aluno.service.AlunoService;
+import br.com.osmarhes.aluno.view.AlunoDTO;
 
 @RestController
 @RequestMapping("/aluno")

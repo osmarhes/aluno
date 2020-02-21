@@ -1,14 +1,14 @@
-package br.com.pamcary.aluno.service;
+package br.com.osmarhes.aluno.service;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
+import br.com.osmarhes.aluno.repository.AlunoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.pamcary.aluno.model.Aluno;
-import br.com.pamcary.aluno.repository.AlunoRepository;
-import br.com.pamcary.aluno.view.AlunoDTO;
+import br.com.osmarhes.aluno.model.Aluno;
+import br.com.osmarhes.aluno.view.AlunoDTO;
 
 @Service
 public class AlunoService {

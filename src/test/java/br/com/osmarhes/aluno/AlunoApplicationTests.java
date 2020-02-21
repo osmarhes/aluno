@@ -1,4 +1,4 @@
-package br.com.pamcary.aluno;
+package br.com.osmarhes.aluno;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

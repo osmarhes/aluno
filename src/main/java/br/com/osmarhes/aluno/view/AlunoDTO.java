@@ -1,10 +1,9 @@
-package br.com.pamcary.aluno.view;
+package br.com.osmarhes.aluno.view;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
-import br.com.pamcary.aluno.model.Aluno;
-import lombok.Data;
+import br.com.osmarhes.aluno.model.Aluno;
 
 public class AlunoDTO {
 	private Long id;

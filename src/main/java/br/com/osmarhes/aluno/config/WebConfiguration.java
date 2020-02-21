@@ -1,4 +1,4 @@
-package br.com.pamcary.aluno.config;
+package br.com.osmarhes.aluno.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

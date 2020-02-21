@@ -1,4 +1,4 @@
-package br.com.pamcary.aluno.model;
+package br.com.osmarhes.aluno.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -7,8 +7,7 @@ import javax.persistence.Id;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
-import br.com.pamcary.aluno.view.AlunoDTO;
-import lombok.Data;
+import br.com.osmarhes.aluno.view.AlunoDTO;
 
 @Entity
 public class Aluno {

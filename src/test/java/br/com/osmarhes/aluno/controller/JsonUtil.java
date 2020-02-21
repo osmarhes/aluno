@@ -1,4 +1,4 @@
-package br.com.pamcary.aluno.controller;
+package br.com.osmarhes.aluno.controller;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.ObjectMapper;
